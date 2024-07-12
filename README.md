@@ -1,6 +1,14 @@
-## 😎Bonjour, je suis Fanilo Hajaniaina!
+# Bonjour, je suis Fanilo Hajaniaina!
 
 Bienvenue sur mon profil GitHub. Je suis un développeur passionné par React Native et Firebase.
+
+![Coding GIF](https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif)
+
+## Projets
+
+- [E-Ticket](https://github.com/FaniloHajaniaina/E-Ticket) : Gestion de billets d'événements avec React Native et Firebase.
+
+![Fanilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaniloHajaniaina&show_icons=true&theme=radical)
 
 
 <!--
