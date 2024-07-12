@@ -1,4 +1,3 @@
-# Bonjour, je suis Fanilo Hajaniaina!
 
 ![Bonjour, je suis Fanilo Hajaniaina!](https://github.com/FaniloHajaniaina/FaniloHajaniaina/blob/main/Nilo.png)
 
