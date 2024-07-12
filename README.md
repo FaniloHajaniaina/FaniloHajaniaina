@@ -1,4 +1,7 @@
-## Hi there 👋
+# Bonjour, je suis Fanilo Hajaniaina!
+
+Bienvenue sur mon profil GitHub. Je suis un développeur passionné par React Native et Firebase.
+
 
 <!--
 **FaniloHajaniaina/FaniloHajaniaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
