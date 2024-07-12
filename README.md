@@ -1,4 +1,6 @@
-# 👋Hi, I'm Fanilo Hajaniaina
+# Bonjour, je suis Fanilo Hajaniaina!
+
+![Bonjour, je suis Fanilo Hajaniaina!](https://github.com/FaniloHajaniaina/FaniloHajaniaina/blob/main/Nilo.png)
 
 ![Coding GIF](https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif)
 
