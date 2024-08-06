@@ -21,7 +21,9 @@
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
 </p>
 
+<p align="center">
 ![Coding GIF](https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif)
+</p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align="center">
