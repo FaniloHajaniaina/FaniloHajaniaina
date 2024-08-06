@@ -20,8 +20,7 @@
 ![Coding GIF](https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif)
 
 ## Mes Statistiques GitHub
-
-                              ![Fanilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaniloHajaniaina&show_icons=true&theme=radical)
+![Fanilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaniloHajaniaina&show_icons=true&theme=radical)
 
 ## Projets Épinglés
 
