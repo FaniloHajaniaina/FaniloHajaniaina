@@ -1,15 +1,21 @@
                                                      Hello👋, I'm 
-
-
 ![Bonjour, je suis Fanilo Hajaniaina!](https://github.com/FaniloHajaniaina/FaniloHajaniaina/blob/main/Nilo.png)
 
-## Outils Utilisés
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+## 🔧 Languages-Frameworks-Tools 🔧
+<p align="center">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" alt="Next.js"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+    <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+</p>
 
 ![Coding GIF](https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif)
 
