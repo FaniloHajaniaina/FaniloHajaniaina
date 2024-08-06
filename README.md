@@ -8,13 +8,13 @@
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-    <img src="https://img.icons8.com/color/48/000000/next.png" alt="Next.js"/>
+    <img src="https://img.icons8.com/fluency/48/000000/nextjs.png" alt="Next.js"/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
     <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-    ![image](https://github.com/user-attachments/assets/3360fb79-c53c-4856-a27f-4fa7b55842fd)   
     <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
+    <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
 </p>
 
