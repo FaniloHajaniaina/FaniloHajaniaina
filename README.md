@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3360fb79-c53c-4856-a27f-4fa7b55842fd)                                                              Hello👋, I'm 
+                                                           Hello👋, I'm 
 ![Bonjour, je suis Fanilo Hajaniaina!](https://github.com/FaniloHajaniaina/FaniloHajaniaina/blob/main/Nilo.png)
 
                                                      🔧 Languages-Frameworks-Tools 🔧
@@ -13,7 +13,7 @@
     <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-    <img src="https://img.icons8.com/color/48/000000/vscode.png" alt="Vscode"/>
+    ![image](https://github.com/user-attachments/assets/3360fb79-c53c-4856-a27f-4fa7b55842fd)   
     <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
 </p>
