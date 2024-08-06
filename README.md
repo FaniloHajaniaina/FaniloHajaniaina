@@ -28,6 +28,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=FaniloHajaniaina&show_icons=true&theme=radical" alt="Fanilo's GitHub stats"/>
 </p>
 
+## 🚀 Total des Commits
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narindrakoko&theme=radical" alt="GitHub Streak"/>
+</p>
+
 <h2 align="center">📌 Projets Épinglés</h2>
 <p align="center">
   <a href="https://github.com/FaniloHajaniaina/E-Ticket">
