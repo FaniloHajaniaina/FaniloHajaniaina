@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" alt="Coding GIF"/>
 </p>
 
-<h2 align="center">🔧 Languages-Frameworks-Tools 🔧</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools 🛠️</h2>
 <p align="center">
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
@@ -30,13 +30,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=FaniloHajaniaina&show_icons=true&theme=radical" alt="Fanilo's GitHub stats"/>
 </p>
 
-<h2 align="center">🚀 Total des Commits</h2>
+<h2 align="center">🚀 Total des Commits 🚀</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narindrakoko&theme=radical" alt="GitHub Streak"/>
 </p>
 
-<h2 align="center">📌 Projets Épinglés</h2>
+<h2 align="center">📌 Exemple of my Projet 📌</h2>
 <p align="center">
   <a href="https://github.com/FaniloHajaniaina/E-Ticket">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FaniloHajaniaina&repo=E-Ticket&theme=radical" alt="ReadMe Card"/>
