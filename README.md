@@ -8,7 +8,7 @@
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/nextjs.png" alt="Next.js"/>
+    ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
     <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
