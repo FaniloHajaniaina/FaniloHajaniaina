@@ -3,6 +3,8 @@
   <img src="https://github.com/FaniloHajaniaina/FaniloHajaniaina/blob/main/Nilo.png" alt="Bonjour, je suis Fanilo Hajaniaina!"/>
 </p>
 
+![Coding GIF](https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif)
+
 <h2 align="center">🔧 Languages-Frameworks-Tools 🔧</h2>
 <p align="center">
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
@@ -19,10 +21,6 @@
     <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-</p>
-
-<p align="center">
-![Coding GIF](https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif)
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
