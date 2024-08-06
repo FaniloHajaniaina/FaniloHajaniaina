@@ -3,7 +3,9 @@
   <img src="https://github.com/FaniloHajaniaina/FaniloHajaniaina/blob/main/Nilo.png" alt="Bonjour, je suis Fanilo Hajaniaina!"/>
 </p>
 
-![Coding GIF](https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" alt="Coding GIF"/>
+</p>
 
 <h2 align="center">🔧 Languages-Frameworks-Tools 🔧</h2>
 <p align="center">
