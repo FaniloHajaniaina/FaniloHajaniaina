@@ -1,4 +1,4 @@
-<h2 align="center">Hello👋, I'm Fanilo Hajaniaina</h2>
+<h2 align="center">Hello👋, I'm</h2>
 <p align="center">
   <img src="https://github.com/FaniloHajaniaina/FaniloHajaniaina/blob/main/Nilo.png" alt="Bonjour, je suis Fanilo Hajaniaina!"/>
 </p>
