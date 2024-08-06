@@ -10,6 +10,7 @@
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
     <img src="https://img.icons8.com/fluency/48/000000/nextjs.png" alt="Next.js"/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+    <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express.js"/>
     <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
