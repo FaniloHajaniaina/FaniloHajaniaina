@@ -44,9 +44,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://fanilohajaniaina.github.io/hello-animation/">Hello, I'm Fanilo Hajaniaina 👋</a>
-</p>
 
 
 <!--
