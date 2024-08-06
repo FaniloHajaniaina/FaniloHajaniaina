@@ -30,7 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=FaniloHajaniaina&show_icons=true&theme=radical" alt="Fanilo's GitHub stats"/>
 </p>
 
-<h2 align="center">🚀 Total des Commits 🚀</h2>
+<h2 align="center">🚀 Total of Commits 🚀</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narindrakoko&theme=radical" alt="GitHub Streak"/>
