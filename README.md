@@ -1,7 +1,7 @@
-                                                           Hello👋, I'm 
+                                                           ##Hello👋, I'm 
 ![Bonjour, je suis Fanilo Hajaniaina!](https://github.com/FaniloHajaniaina/FaniloHajaniaina/blob/main/Nilo.png)
 
-                                                     🔧 Languages-Frameworks-Tools 🔧
+                                                     ##🔧 Languages-Frameworks-Tools 🔧
 <p align="center">
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
