@@ -21,7 +21,7 @@
 
 ## Mes Statistiques GitHub
 
-![Fanilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaniloHajaniaina&show_icons=true&theme=radical)
+                              ![Fanilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaniloHajaniaina&show_icons=true&theme=radical)
 
 ## Projets Épinglés
 
