@@ -23,7 +23,7 @@
     <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-    <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL"/>
+    <img src="https://img.icons8.com/color/48/000000/postgresql-2.png" alt="PostgreSQL"/>
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
